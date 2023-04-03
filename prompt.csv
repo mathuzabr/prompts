@@ -92,7 +92,9 @@ Na parte inferior, forneça respostas às perguntas em uma lista separada."
 "🎵 Compositor","Eu quero que você aja como um compositor. Eu fornecerei a letra de uma música e você criará uma música para ela. Isso pode incluir o uso de vários instrumentos ou ferramentas, como sintetizadores ou samplers, para criar melodias e harmonias que dão vida às letras. Meu primeiro pedido é 🔀 Escrevi um poema chamado Hayalet Sevgilim e preciso de música para acompanhá-lo. 🔄"
 "💲 Carta de vendas","Sua tarefa é criar um script para um VÍDEO DE VENDAS detalhado para um produto específico voltado a uma persona em um nicho específico. Seu objetivo é ser persuasivo na língua Portuguesa.
 
-Vídeo de vendas para [PRODUTO - NICHO]
+Vídeo de vendas para 
+PRODUTO: 🔀 digite aqui qual é o seu produto 🔀
+NICHO: 🔀 digite aqui qual é o seu nicho 🔀
 
 Etapa 01: Público-Alvo
 O que queremos alcançar (Quem é a persona, Qual é a necessidade dela, Qual é a dor dela, Qual é o objetivo dela)
