@@ -46,6 +46,25 @@ Quais são os direitos relacionados aos Dados Pessoais?
 Compromisso do Usuário.
 Canais de contato.
 Mais informações."
+"💬 Modelo de Contrato Gestão de redes sociais","Gere um Modelo de Contrato Gestão de redes sociais com a seguinte estrutura:
+
+CLÁUSULA PRIMEIRA: DA PRESTAÇÃO DE SERVIÇOS:
+CLÁUSULA SEGUNDA: DAS CONDIÇÕES DA PRESTAÇÃO DOS SERVIÇOS:
+CLÁUSULA TERCEIRA: PRAZO:
+CLÁUSULA QUINTA: DIREITOS AUTORAIS:
+CLÁUSULA SEXTA: VALORES E FORMAS DE PAGAMENTO:
+CLÁUSULA SÉTIMA: RESCISÃO DE CONTRATO:
+CLÁUSULA SÉTIMA: DISPOSIÇÕES GERAIS:"
+"💬 Modelo de Contrato Gestão de redes sociais","Gere um Modelo de Contrato Prestação de Serviços de Gestão de Redes Sociais (Social Mídia) com a seguinte estrutura:
+
+1. SERVIÇO
+2. DO CRONOGRAMA E VIGÊNCIA
+3. DA REMUNERAÇÃO E CONDIÇÕES DE PAGAMENTO
+4. DA PUBLICIDADE
+5. DAS OBRIGAÇÕES
+6. PROTEÇÃO À IMAGEM
+7. DAS APROVAÇÕES DE MATERIAL
+8. DA RESCISÃO"
 "🤝 Gerador Termos de Uso","Crie termos de uso personalizado para o seu site!
 
 Nome da Empresa: ➡️Ideias ChatGPT⬅️
@@ -53,6 +72,8 @@ Domínio do Site: ➡️https://ideiaschatgpt.com.br⬅️
 Endereço de E-mail: ➡️ideiaschatgpt@gmail.com⬅️
 Utiliza: ➡️Cookies, Adsense⬅️
 Língua: ➡️Português⬅️"
+
+
 "🌐 Gerador Sitemap","Crie um mapa do site para um site da ➡️seu nicho, marca⬅️ com política de privacidade e páginas de termos de serviço"
 "📺 Gerador de VSL","Atuar como especialista em ➡️Descreva seu nicho e produtos/serviços⬅️, que fala e escreve fluentemente em português. Escreva toda a saída em português. Crie uma planilha ( esse formato é necessário ) que mostre 2 alternativas de vídeos dinâmicos, atraentes, originais, criativos e emocionantes para minha publicidade nas mídias sociais para promover o produto que você me deu, cujas informações são as seguintes: Marketing Digital. Os estágios devem fluir suavemente e ser consistentes entre si. A primeira alternativa é uma versão com uma história fortemente marcada. A segunda alternativa é uma versão com um tom de Storyselling fortemente marcado. Não repete em ambas as alternativas. Os estágios de publicidade são as linhas da tabela: Gancho - texto / Gancho - vídeo / Problema - Texto / Problema - Vídeo / Solução - texto / CTA - Texto / CTA - Vídeo / Descrição."
 "💬 Gerador de Depoimentos p/ produtos","Crie depoimentos para o meu produto de comércio eletrônico e encontre as melhores informações H1 e Meta. ➡️Digite o nome descritivo do produto⬅️"
@@ -169,6 +190,17 @@ Um resumo de uma pessoa que seja o oposto da persona do usuário descrita revela
 Certifique-se de que sua resposta esteja estruturada em 5 tabelas separadas e tenha uma linha separada para cada ponto de dados. Não forneça marcadores."
 "📩 E-mail Marketing","Você pode criar uma campanha de email marketing para ➡️Descreva seu nicho e produtos/serviços⬅️ usando a estratégia AIDA? Seu trabalho é fingir ser um estrategista de marketing com mais de 10 anos de experiência no setor e um especialista em técnicas de comunicação persuasiva. A estratégia AIDA significa Atenção, Interesse, Desejo e Ação. Sua tarefa é criar vários e-mails para cada etapa da estratégia. Na primeira coluna de uma tabela, liste o estágio AIDA para cada e-mail que você criar. Na segunda coluna, escreva a linha de assunto de cada e-mail. A linha de assunto deve atrair a atenção do leitor e induzi-lo a abrir o e-mail. Na terceira coluna, escreva o corpo do e-mail. O corpo deve ser informativo e envolvente e deve seguir a estratégia AIDA para o estágio em que se encontra. Na quarta coluna, escreva a frase de chamariz para cada e-mail. A chamada à ação deve ser clara, específica e incentivar o leitor a realizar a ação desejada. Depois de receber o nome do serviço ou produto, incluindo seus benefícios, prossiga com a criação do plano de estratégia de email marketing com base nesse produto ou serviço. Certifique-se de colocar este plano em uma mesa bem organizada com uma mesa."
 "📩 E-mail Marketing - Aviso de atraso na entrega","Escrever um e-mail informando um cliente sobre um atraso no envio da sua compra. Incluir detalhes sobre a causa do atraso e a nova data de entrega estimada. Certifique-se de incluir uma chamada clara à ação para que o cliente saiba como pode obter mais informações ou resolver quaisquer questões relacionadas com o atraso. Incluir espaços em branco para personalização no e-mail."
+"📅 Cronograma de conteúdo","Gere um Cronograma de conteúdo com a seguinte estrutura:
+
+[Tipo de Conteúdo]
+[Canal]: Tiktok, Youtube, Facebook, Instagram
+[Horário]: Sugerir os melhores horários de engajamento.
+
+Formate tudo em uma tabela.
+
+Cada tabela deve conter [Tipo de Conteúdo], [Canal] e [Horário] o título da publicação, uma breve descrição.
+
+Classifique palavras-chave de cauda longa específicas para minha palavra-chave. Gere títulos no estilo clickbait para essas postagens.Inclua as melhores hashtags para a palavra-chave. A palavra-chave que estou segmentando é: ➡️Bitcoin⬅️."
 "📅 Calendario Social Mídia","Gostaria que você me ajudasse a criar um calendário de conteúdo valioso para minha conta do Instagram que respondesse às perguntas mais frequentes e aos tópicos mais interessantes sobre minha palavra-chave que é ➡️seu tópico de conteúdo⬅️. Selecione títulos no estilo clickbait para essas postagens. Organize o título de cada postagem do Instagram em uma tabela para que pareça um calendário. Cada tabela deve conter os dias de segunda a sexta, o título da publicação, uma breve descrição, o formato (reels, carrossel, imagem). Separe cada placa em quatro
 semanas."
 "📅 Calendario Social Mídia - 2","Gere uma programação de conteúdo para o Instagram, classifique palavras-chave de cauda longa específicas para minha palavra-chave. Gere títulos no estilo clickbait para essas postagens. Separe por semanas. A palavra-chave que estou segmentando é: ➡️Adicione sua palavra-chave⬅️."
