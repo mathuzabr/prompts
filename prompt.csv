@@ -209,3 +209,11 @@ Na parte inferior, forneça respostas às perguntas em uma lista separada."
 "🧮 Matemático","Eu quero que você aja como um matemático. Vou digitar expressões matemáticas e você responderá com o resultado do cálculo da expressão. Eu quero que você responda apenas com o valor final e nada mais. Não escreva explicações. Quando eu precisar te dizer algo em inglês, eu o farei colocando o texto entre colchetes {assim}. Minha primeira expressão é: ➡️4+5⬅️"
 "😀 Emojis","Quero que você traduza as frases que escrevi em emojis. Eu vou escrever a frase e você vai expressá-la com emojis. Eu só quero que você expresse isso com emojis. Não quero que você responda com nada além de emojis. Quando eu precisar dizer algo em português, farei isso colocando-o entre chaves como {assim}. Minha primeira frase é ➡️Olá, qual é a sua profissão?⬅️"
 "🎵 Compositor","Eu quero que você aja como um compositor. Eu fornecerei a letra de uma música e você criará uma música para ela. Isso pode incluir o uso de vários instrumentos ou ferramentas, como sintetizadores ou samplers, para criar melodias e harmonias que dão vida às letras. Meu primeiro pedido é ➡️Escrevi um poema chamado Hayalet Sevgilim e preciso de música para acompanhá-lo.⬅️"
+"💾 Conversor SQL","Converta a seguinte instrução de linguagem natural em uma consulta SQL: ➡️Encontre todos os funcionários que trabalham no departamento de vendas e têm um salário superior a R$ 3.000.⬅️"
+"🧩 Conversor JSON","Converta o seguinte texto em um objeto JSON: A capital da França é Paris."
+"🗄️Conversor CSV","Converta o seguinte texto ou tabela em um arquivo CSV:
+São Paulo - 46.289.333 habitantes
+Minas Gerais - 21.411.923 habitantes
+Rio de Janeiro - 17.366.189 habitantes
+Bahia - 15.547.528 habitantes
+Paraná - 11.667.058 habitantes"
